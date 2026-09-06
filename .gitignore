@@ -1,0 +1,18 @@
+# Environment variables & API credentials (CRITICAL)
+.env
+.env.local
+*.json.key
+*credentials*.json
+
+# Python runtime & caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+env/
+venv/
+
+# Temporary downloads & scratch
+records/downloads/
+*.log
