@@ -42,7 +42,8 @@ def render_banner():
         r"  ╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝    ╚═╝╚═════╝ " + "\n"
         r"  ⛓️  BLOCKCHAIN ATTESTATION & OSINT VERIFICATION ⛓️ "
         "[/bold cyan]\n\n"
-        "[bold white]HH GOA 2026 // PERSONAL IDENTITY & CONTENT PROVENANCE ENGINE[/bold white]\n"
+        "[bold yellow]=== Hackathon HH Goa 2026 | Task 3 ===[/bold yellow]\n"
+        "[bold cyan]=== Face Identification → Web Verification → Blockchain Attestation ===[/bold cyan]\n"
         "[dim italic]Scope note: Tested exclusively on consenting builders & team members' public content.[/dim italic]"
     )
     console.print(Panel(cyber_art, border_style="cyan", box=box.HEAVY, padding=(1, 2)))
