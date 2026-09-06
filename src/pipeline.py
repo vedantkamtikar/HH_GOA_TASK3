@@ -40,7 +40,7 @@ def render_banner():
         r"  ██╔══╝  ██╔══██║██║     ██╔══╝      ██║██║  ██║" + "\n"
         r"  ██║     ██║  ██║╚██████╗███████╗    ██║██████╔╝" + "\n"
         r"  ╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝    ╚═╝╚═════╝ " + "\n"
-        r"  ⛓️  BLOCKCHAIN ATTESTATION & OSINT VERIFICATION ⛓️ "
+        r"  [ BLOCKCHAIN ATTESTATION & OSINT VERIFICATION ]"
         "[/bold cyan]\n\n"
         "[bold yellow]=== Hackathon HH Goa 2026 | Task 3 ===[/bold yellow]\n"
         "[bold cyan]=== Face Identification → Web Verification → Blockchain Attestation ===[/bold cyan]\n"
